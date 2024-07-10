@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="287a5b08-e71e-4bd5-b112-95abb031e26a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/App 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/App 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Levels/Levels 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Memento/Memento 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Memento/Memento 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Memento/Memento 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Observer/Observer 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Observer/Subject 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/Prototype/Prototype 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/Builder 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/Builder 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/BunkerBuilder 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/BunkerBuilder 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/BunkerBuilder 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/Director 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/Director 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/EnemyBuilder 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/EnemyBuilder 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/builder/EnemyBuilder 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/GameEngine 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/GameEngine 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/GameEngine 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/GameWindow 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/GameWindow 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/KeyboardInputHandler 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/KeyboardInputHandler 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/engine/KeyboardInputHandler 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/EntityView 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/EntityViewImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/EntityViewImpl$1 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/Player 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/Player 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/Player 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/entities/SpaceBackground 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectile 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectile 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectile 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectileFactory 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectileFactory 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/EnemyProjectileFactory 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/PlayerProjectile 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/PlayerProjectile 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/PlayerProjectileFactory 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/PlayerProjectileFactory 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/PlayerProjectileFactory 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/Projectile 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/Projectile 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/ProjectileFactory 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/factory/ProjectileFactory 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/Bunker 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/Bunker 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/Bunker 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/Enemy 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/Enemy 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/GameObject 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/gameobject/GameObject 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/physics/Vector2D 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/rendering/Renderable$Layer 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/BunkerState 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/GreenState 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/GreenState 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/RedState 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/RedState 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/state/YellowState 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/FastProjectileStrategy 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/FastProjectileStrategy 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/FastProjectileStrategy 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/NormalProjectileStrategy 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/NormalProjectileStrategy 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/NormalProjectileStrategy 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/ProjectileStrategy 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/ProjectileStrategy 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/ProjectileStrategy 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/SlowProjectileStrategy 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/SlowProjectileStrategy 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/invaders/strategy/SlowProjectileStrategy 4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/.Invader_A3_Codebase-1.0-SNAPSHOT.tar.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/.Invader_A3_Codebase-1.0-SNAPSHOT.zip.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/alien_shot_fast 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/alien_shot_slow 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/bunkerGreen 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/bunkerRed 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/bunkerYellow 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/config_easy 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/config_hard 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/config_medium 2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/enemy 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/fast_alien 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/player 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/player_shot 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/shoot 2.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/slow_alien 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2X3MW64ST2Jc9oGeX5qwGTI6y1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/yasmineibrahim/Desktop/invaders/invaders_A3&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;AndroidSdkUpdater&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287a5b08-e71e-4bd5-b112-95abb031e26a" name="Changes" comment="" />
+      <created>1697853340015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697853340015</updated>
+      <workItem from="1697853342842" duration="96000" />
+      <workItem from="1697853587510" duration="5487000" />
+      <workItem from="1698191701758" duration="11887000" />
+      <workItem from="1698615230867" duration="43078000" />
+      <workItem from="1698824378732" duration="8786000" />
+      <workItem from="1698836246134" duration="36070000" />
+      <workItem from="1699013654806" duration="1719000" />
+      <workItem from="1709769059157" duration="14730000" />
+      <workItem from="1710030200666" duration="393000" />
+      <workItem from="1718423889209" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
